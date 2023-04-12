@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elenabaskin/ecommerce2.git"
+    "url": "https://github.com/Slick1901/E-commercev2.git"
   },
   "author": "elena baskin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elenabaskin/ecommerce2/issues"
+    "url": "https://github.com/Slick1901/E-commercev2.git"
   },
-  "homepage": "https://github.com/elenabaskin/ecommerce2#readme",
+  "homepage": "https://github.com/Slick1901/E-commercev2.git",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
